@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a french student, who would love to work in enginerring.<br>I'm currently working on making my own OS from scratch.<br>I'm looking for help with this.<br>I'm currently learning java script, C++ and assembly.<br>
+I'm a french student, who would love to work in engineering.<br>I'm currently working on making my own OS from scratch.<br>I'm looking for help with this.<br>I'm currently learning java script, C++ and assembly.<br>
 
 
 ## 🌐 Socials:
